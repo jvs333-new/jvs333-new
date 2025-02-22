@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding an electronics
 - 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate on python programming
-- 📫 How to reach me: send me an [email](mailto:mail.jvs333@gmail.com)
+- 📫 How to reach me: send me an email at mail.jvs333@gmail.com
 - ⚡ Fun fact: I have a [scratch](https://scratch.mit.edu/users/jvs333/) and a [arduino](https://forum.arduino.cc/u/jvs333/) profile
 
 <!---
