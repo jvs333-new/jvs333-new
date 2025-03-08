@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jvs333-new
-- 👀 I’m interested in coding an electronics
+- 👀 I’m interested in coding, lego (mindstorms) and electronics
 - 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate on python programming
 - 📫 How to reach me: send me an email at mail.jvs333@gmail.com
